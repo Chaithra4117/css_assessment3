@@ -1,0 +1,149 @@
+/* container */
+.class0
+{
+    border: 5px solid rgb(207, 9, 75);
+    border-radius: 5px;
+    box-shadow: 4px 4px purple;
+    /* margin: auto;
+    padding: auto; */
+    width: 300px;
+    height: 100px;
+    margin-left: 650px;
+    background-color: white;
+    
+}
+
+h3
+{
+    font-style: italic;
+    color: purple;
+    font-style: bold;
+    text-align: center;
+}
+/* container1 */
+.container1
+{
+    border: 5px solid green;
+    /* position: relative; */
+}
+p
+{
+  color: darkblue;
+  font-family: 'Times New Roman', Times, serif;  
+  text-align: left;
+  padding-left: 15px;
+}
+.class1
+{
+    width: 200px;
+    border: 5px solid rgb(207, 9, 75);
+    border-radius: 5px;
+    box-shadow: 4px 4px purple;
+    background-color: white;
+    position: static;
+    /* margin-top: 50px; */
+}
+.class2
+{
+    float: right;
+    margin-right: 10px;
+    margin-top: -130px;
+    width: 200px;
+    border: 5px solid rgb(207, 9, 75);
+    border-radius: 5px;
+    box-shadow: 4px 4px purple;
+    background-color: white; 
+}
+.class3
+{
+    width: 200px;
+    border: 5px solid rgb(207, 9, 75);
+    border-radius: 5px;
+    box-shadow: 4px 4px purple;
+    background-color: white;  
+}
+.class4
+{
+    bottom: 10px;
+    width: 200px;
+    position: absolute;
+    bottom: 260px;
+    right: 20px;
+    border: 5px solid rgb(207, 9, 75);
+    border-radius: 5px;
+    box-shadow: 4px 4px purple;
+    background-color: white; 
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.container2
+{
+    border: 5px solid purple;
+    margin: auto;
+    width: 700px;
+    background-color: green;
+    /* display: flex;    */
+}
+.class5
+{
+    width: 700px;
+    font-weight: bold;
+    text-align: center;
+}
+.class6
+{
+    width: 315px;
+    border: 1px none papayawhip;
+    margin: 10px;
+    padding: 10px;
+    color: rgb(10, 10, 10);
+    background-color: peachpuff;
+
+}
+.class7
+{
+    width: 315px;
+    margin: 10px;
+    float: right;
+    margin-top: -155px;
+    padding: 10px;
+    border: 1px none papayawhip;
+    background-color: peachpuff;
+    color: black;
+
+}
+.class8
+{
+    width: 660px;
+    position: inherit;
+    border: 1px none papayawhip;
+    margin: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    color: rgb(10, 10, 10);
+    background-color: peachpuff; 
+}
+.container3
+{
+    position: fixed;
+    bottom: 0;
+    /* overflow-y: scroll;
+    overflow-x: scroll; */
+}
+.class9
+{
+    border: 5px solid red;
+    background-color: palegreen;
+    width: 400px;
+    height: 50px;
+    margin-left: 550px;
+    display: flex;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+h4
+{
+    color: darkred;
+    
+}
